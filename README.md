@@ -4,7 +4,7 @@
 
 | Имя | Роль |
 |-----|------|
-| Александр Булгаков | Backend Developer (FastAPI, PostgreSQL) |
+| Александр   Булгаков | Backend Developer (FastAPI, PostgreSQL) |
 | Сергей Крылов | Frontend Developer (React, TypeScript) |
 | Егор Зеленков | QA Engineer (pytest, Vitest) |
 | Тимофей Ясонов | UI/UX Designer + Frontend |
